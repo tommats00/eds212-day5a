@@ -60,3 +60,5 @@ sw_height_mean <- round(mean(starwars$height, na.rm = TRUE), 3)
 The mean height of all starwars characteres is `r sw_height_mean`
 
 Hey, it's Matteo! :)
+
+Hey, it's Tom! XD 
